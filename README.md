@@ -5,11 +5,11 @@
 
 [demo](http://drafting-demo.opengovfoundation.org)
 
-[TL;DR skip to plugins and installation]()
+[TL;DR skip to plugins and installation](https://github.com/opengovfoundation/drafting-platform#current-plugin-list)
 
 *Or*
 
-[Get Involved]()
+[Get Involved](https://github.com/opengovfoundation/drafting-platform#contribute--get-involved)
 
 ## What are we trying to solve?
 
@@ -59,4 +59,5 @@ If you're looking to contribute to the platform directly, take a look at the [Cr
 ## Other Resources
 
 [Our original platform pitch Hackpad](https://hackpad.com/Drafting-Platform-Elevator-Pitch-ZM6PnXffVjJ)
+
 [Our User Stories Hackpad](https://hackpad.com/Drafting-Platform-User-Stories-dJsawc36A9t)
