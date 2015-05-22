@@ -33,7 +33,7 @@ We're developing a number of plugins for [Etherpad](https://github.com/ether/eth
 * [ep_define](https://github.com/JohnMcLear/ep_define)
 * [ep_reference](https://github.com/JohnMcLear/ep_reference)
 * [ep_indent_context](https://github.com/JohnMcLear/ep_indent_context)
-* [ep_table_of_contents]('https://github.com/JohnMcLear/ep_table_of_contents)
+* [ep_table_of_contents](https://github.com/JohnMcLear/ep_table_of_contents)
 * [ep_spellcheck](https://github.com/johnmclear/ep_spellcheck)
 * [ep_mammoth](https://github.com/JohnMcLear/ep_mammoth)
 * [ep_text_statistics](https://github.com/JohnMcLear/ep_text_statistics)
@@ -47,14 +47,14 @@ We're developing a number of plugins for [Etherpad](https://github.com/ether/eth
 1. See the [Etherpad Installation Instructions](https://github.com/ether/etherpad-lite#installation) on how to get the platform up and running.
 1. To install our specific plugins, run
   `npm install ep_comments_page ep_page_view ep_br_to_p ep_real_time_chat ep_context ep_define ep_reference ep_indent_context ep_table_of_contents ep_spellcheck ep_mammoth ep_text_statistics ep_headings2 ep_align ep_print`
-
-
-
+  
+  which will be included automatically when Etherpad runs
 
 ## Contribute / Get Involved
 
+Our roadmap is included via our [issue log](https://github.com/opengovfoundation/drafting-platform/issues).  Please feel free to open an issue with added suggestions.
 
-
+If you're looking to contribute to the platform directly, take a look at the [Creating an Etherpad plugin documentation](https://github.com/ether/etherpad-lite/wiki/Creating-a-plugin).
 
 ## Other Resources
 
