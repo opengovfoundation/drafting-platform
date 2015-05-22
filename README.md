@@ -53,7 +53,8 @@ We're developing a number of plugins for [Etherpad](https://github.com/ether/eth
 ## Contribute / Get Involved
 
 *Our roadmap is actually located [in a different repo](https://github.com/CommunityPublication/community-publication/issues) and needs to be copied over.*
-Our roadmap is included via our [issue log](https://github.com/opengovfoundation/drafting-platform/issues).  Please feel free to open an issue with added suggestions.
+
+~~Our roadmap is included via our [issue log](https://github.com/opengovfoundation/drafting-platform/issues).  Please feel free to open an issue with added suggestions.~~
 
 If you're looking to contribute to the platform directly, take a look at the [Creating an Etherpad plugin documentation](https://github.com/ether/etherpad-lite/wiki/Creating-a-plugin).
 
